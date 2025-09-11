@@ -1,0 +1,7 @@
+1. Downloaded and installed Node.js
+2. Verified installation using "node -v" and "npm -v"
+3. Navigated into the alx-intermediate-frontend repository
+4. Created the directory "0x03-sass_scss"
+5. Installed SASS version 3.7.4 using the command: npm install sass@3.7.4
+6. Verified the installation with: npx sass --version
+7. Tested by compiling a .scss file into .css
